@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+h3{
+    color: white;
+}
+.tx_centro{
+    text-align: center;
+}
+.mb_40{
+    margin-bottom: 40px;
+}
+.mt_20{
+    margin-top: 20px;
+}
+.titulo1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 28px;
+    
+}

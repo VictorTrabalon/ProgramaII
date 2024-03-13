@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+}
+table{
+    border-spacing: 0;
+    background-color: beige;
+    margin: 0 auto;
+
+}
+td{
+    padding: 10px;
+}
+
+.tam_img{
+    width: 200px;
+    height: 120px;
+}
